@@ -1,4 +1,4 @@
 # CNC tocando musica 
 Musica mario cnc testado no meu tcc ETECSCARA
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/8Y2X_dsyBv0?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![CNC tocando música](https://img.youtube.com/vi/8Y2X_dsyBv0/0.jpg)](https://www.youtube.com/watch?v=8Y2X_dsyBv0)
